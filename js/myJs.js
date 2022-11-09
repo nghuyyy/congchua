@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì anh đẹp trai quá trời quá đất, em muốn thịt anh liềnnn",
   text10: "Anh biết ngay mà ^^ Thân xác này là của em",
   text11:
-    "Tối mai anh qua đón cậu em chơi nhaa :v Còn giờ thì gọi cho anh nào bae, giờ thì coi trend bé thích nè",
+    "Tối mai anh qua đón cậu em chơi nhaa :v Còn giờ thì coi trend bé thích nè, bấm nút bên dưới để coi ảo thuật!",
   text12: "Okii lunn <3",
 };
 
